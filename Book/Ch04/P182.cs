@@ -4,13 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace book.Ch03
+namespace Book.Ch04
 {
-    internal class P100
+    internal class P182
     {
         static void Main1(string[] args)
         {
-            var number = 100;
+            string input = "Potato Tomato";
+            Console.WriteLine(input.ToUpper());
+            Console.WriteLine(input.ToLower()); 
         }
     }
 }

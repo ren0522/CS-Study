@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace book.Ch03
+namespace Book.Ch02
 {
     internal class P98
     {
@@ -25,7 +25,7 @@ namespace book.Ch03
             Console.WriteLine(_double.GetType());
             Console.WriteLine(_char.GetType());
             Console.WriteLine(_string.GetType());
-                
+
 
 
         }

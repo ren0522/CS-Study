@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace book.Ch03
+namespace Book.Ch02
 {
-    internal class P102
+    internal class P103
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
-            var number = 20;
+            Console.WriteLine(123456 + 65432L);
         }
     }
 }

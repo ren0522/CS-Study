@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "book/1.0.0": {
+      "Book/1.0.0": {
         "runtime": {
-          "book.dll": {}
+          "Book.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "book/1.0.0": {
+    "Book/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
