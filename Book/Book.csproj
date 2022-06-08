@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Ch04\**" />
+    <Compile Remove="Ch06\**" />
+    <Compile Remove="Ch07\**" />
+    <Compile Remove="Ch08\**" />
+    <Compile Remove="Ch09\**" />
+    <Compile Remove="Ch10\**" />
+    <Compile Remove="Ch11\**" />
+    <Compile Remove="Ch12\**" />
+    <EmbeddedResource Remove="Ch04\**" />
+    <EmbeddedResource Remove="Ch06\**" />
+    <EmbeddedResource Remove="Ch07\**" />
+    <EmbeddedResource Remove="Ch08\**" />
+    <EmbeddedResource Remove="Ch09\**" />
+    <EmbeddedResource Remove="Ch10\**" />
+    <EmbeddedResource Remove="Ch11\**" />
+    <EmbeddedResource Remove="Ch12\**" />
+    <None Remove="Ch04\**" />
+    <None Remove="Ch06\**" />
+    <None Remove="Ch07\**" />
+    <None Remove="Ch08\**" />
+    <None Remove="Ch09\**" />
+    <None Remove="Ch10\**" />
+    <None Remove="Ch11\**" />
+    <None Remove="Ch12\**" />
+  </ItemGroup>
+
+</Project>
