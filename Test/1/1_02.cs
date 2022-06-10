@@ -8,7 +8,7 @@ namespace Test._1
 {
     internal class _1_02
     {
-        static void Main1(string[] args)
+        static void Main7(string[] args)
         {
             int year;
             int birth;
@@ -23,7 +23,7 @@ namespace Test._1
 
             int age = year - birth;
 
-            Console.Write("{0}님 안녕하세요.\n당신은 올해 만{1}살 입니다.");
+            Console.Write("{0}님 안녕하세요.\n당신은 올해 만{1}살 입니다.", name, age);
 
         }
     }
