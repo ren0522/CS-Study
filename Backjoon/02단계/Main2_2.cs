@@ -8,7 +8,7 @@ namespace Backjoon._02단계
 {
     internal class Main2_2
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             string num = Console.ReadLine();
             int input = int.Parse(Console.ReadLine()); 
